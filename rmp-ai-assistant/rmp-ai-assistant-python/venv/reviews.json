@@ -1,0 +1,65 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Smith",
+        "review": "Dr. Smith is an outstanding professor who makes complex topics understandable. Her lectures are well-organized, and she genuinely cares about her students' success.",
+        "subject": "Mathematics",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. John Doe",
+        "review": "Prof. Doe is knowledgeable but can be a bit difficult to follow at times. His exams are challenging, but fair. Make sure to keep up with the readings!",
+        "subject": "History",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Jane Johnson",
+        "review": "Dr. Johnson is very passionate about her subject, but her grading is quite harsh. Attend all her classes and participate to do well.",
+        "subject": "Literature",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Michael Brown",
+        "review": "Prof. Brown's classes are engaging, and he always makes time for student questions. His assignments are practical and relevant to the industry.",
+        "subject": "Computer Science",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Alice White",
+        "review": "Dr. White is a tough but fair grader. Her lectures are informative, though sometimes a bit dry. Make sure to take good notes.",
+        "subject": "Chemistry",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Robert Green",
+        "review": "Dr. Green has a deep understanding of the subject, but his lectures can be a bit monotonous. However, his office hours are extremely helpful.",
+        "subject": "Physics",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Sarah Wilson",
+        "review": "Prof. Wilson is very approachable and creates a positive learning environment. Her assignments are well thought out and help reinforce the material.",
+        "subject": "Psychology",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. James Thompson",
+        "review": "Dr. Thompson is a very demanding professor, but you will learn a lot if you put in the effort. His lectures are fast-paced, so be prepared!",
+        "subject": "Economics",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Laura King",
+        "review": "Prof. King is a fantastic professor who is very enthusiastic about her subject. Her exams are straightforward if you attend her lectures.",
+        "subject": "Biology",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Richard Davis",
+        "review": "Dr. Davis is very knowledgeable, but his lectures can be overwhelming. His assignments are challenging, but they really help you understand the material.",
+        "subject": "Engineering",
+        "stars": 3
+      }
+    ]
+  }
+  
